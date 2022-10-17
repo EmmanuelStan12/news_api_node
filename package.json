@@ -1,0 +1,22 @@
+{
+  "name": "article_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmanuelStan12/news_api_node.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "EmmanuelStan12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmmanuelStan12/news_api_node/issues"
+  },
+  "homepage": "https://github.com/EmmanuelStan12/news_api_node#readme"
+}
